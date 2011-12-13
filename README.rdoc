@@ -236,6 +236,10 @@ More features are coming, and please raise an issue[https://github.com/amatsuda/
 Check out Kaminari recipes on the GitHub Wiki for more advanced tips and techniques.
 https://github.com/amatsuda/kaminari/wiki/Kaminari-recipes
 
+== Build Status
+
+<img src="https://secure.travis-ci.org/amatsuda/kaminari.png"/>[http://travis-ci.org/amatsuda/kaminari]
+
 
 == Questions, Feedback
 
