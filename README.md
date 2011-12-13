@@ -267,6 +267,8 @@ https://github.com/amatsuda/kaminari/wiki/Kaminari-recipes
 
 ## Build Status {<img src="https://secure.travis-ci.org/amatsuda/kaminari.png"/>}[http://travis-ci.org/amatsuda/kaminari]
 
+== Build Status {<img src="https://secure.travis-ci.org/rails/rails.png"/>}[http://travis-ci.org/rails/rails]
+
 ## Questions, Feedback
 
 Feel free to message me on Github (amatsuda) or Twitter (@a_matsuda)  ☇☇☇  :)
